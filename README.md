@@ -33,7 +33,7 @@ This app allows users to manage daily tasks with due dates, overdue filtering, a
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/adharv49/TODO-LIST-USING-DJANGO.git
+git clone https://github.com/Keerthanak167/TODO-LIST-USING-DJANGO.git
 cd TODO-LIST-USING-DJANGO
 ```
 
