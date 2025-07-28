@@ -19,12 +19,7 @@ This app allows users to manage daily tasks with due dates, overdue filtering, a
 ## 📸 Screenshots
 
 ![To-Do List UI](https://github.com/Keerthanak167/TODO-LIST-USING-DJANGO/blob/main/output/todo1.png)
-[View Screenshot 1](https://github.com/Keerthanak167/TODO-LIST-USING-DJANGO/blob/main/output/todo1.png)
 
-![To-Do List UI](https://github.com/Keerthanak167/TODO-LIST-USING-DJANGO/blob/main/output/todo2.png)
-[View Screenshot 2](https://github.com/Keerthanak167/TODO-LIST-USING-DJANGO/blob/main/output/todo2.png)
-![To-Do List UI](https://github.com/Keerthanak167/TODO-LIST-USING-DJANGO/blob/main/output/todo1.png)
-![To-Do List UI](https://github.com/Keerthanak167/TODO-LIST-USING-DJANGO/blob/main/output/todo2.png)
 
 ## 🛠️ Tech Stack
 
